@@ -6,7 +6,7 @@
   <br>
   <br>
 
-[![Generic badge](https://img.shields.io/badge/CodeJam-Timathon-orange.svg)](https://twtcodejam.net/) ![Platforms](https://raster.shields.io/badge/Platform-Web%20Browser-blue.png) ![GitHub repo size](https://img.shields.io/github/repo-size/TWT-Code-Jam-FAST/Probox) [![Link](https://img.shields.io/badge/Link-https://probox.vercel.app-orange.svg)](https://probox.vercel.app)
+
 
 </div>
 
@@ -32,7 +32,4 @@ https://probox.vercel.app/
 - Ascii Chart: Show all the ascii characters and their infos!
 - TODO List: So you will never forgot what you needed to do next!
 
-## Contributions
 
-We love your open source enthusiasm. Seeing an website grow a bigger community is possibly the best thing a developer can expect.
-The Code Jam is now officially over. Therefore, we now accept any kind of pull requests - Doc, UI, Bug fixes - feel free to make prs!
